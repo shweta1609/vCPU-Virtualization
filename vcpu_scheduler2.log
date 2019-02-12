@@ -1,0 +1,60 @@
+Script started on 2018-10-01 20:50:33-0700
+]0;shwetasinghal@ubuntu: ~/cs6210Project1_test-master/test/cpu[01;32mshwetasinghal@ubuntu[00m:[01;34m~/cs6210Project1_test-master/test/cpu[00m$ exitpython monitor.py 
+firsttest: ([(0, 1, 29430000000L, 0)], [(True, False)])
+secondtest: ([(0, 1, 30160000000L, 0)], [(True, False)])
+thirdtest: ([(0, 1, 27910000000L, 1)], [(False, True)])
+fourthtest: ([(0, 1, 28180000000L, 1)], [(False, True)])
+fifthtest: ([(0, 1, 27310000000L, 1)], [(False, True)])
+sixthtest: ([(0, 1, 27410000000L, 0)], [(True, False)])
+seventhtest: ([(0, 1, 28830000000L, 1)], [(False, True)])
+eightthtest: ([(0, 1, 27690000000L, 0)], [(True, False)])
+--------------------------------------------------------------------------------
+0: 0.0 []
+1: 0.0 []
+--------------------------------------------------------------------------------
+firsttest: ([(0, 1, 29440000000L, 0)], [(True, False)])
+secondtest: ([(0, 1, 30170000000L, 0)], [(True, False)])
+thirdtest: ([(0, 1, 27920000000L, 1)], [(False, True)])
+fourthtest: ([(0, 1, 28180000000L, 1)], [(False, True)])
+fifthtest: ([(0, 1, 27310000000L, 1)], [(False, True)])
+sixthtest: ([(0, 1, 27410000000L, 0)], [(True, False)])
+seventhtest: ([(0, 1, 28840000000L, 1)], [(False, True)])
+eightthtest: ([(0, 1, 27700000000L, 0)], [(True, False)])
+--------------------------------------------------------------------------------
+0: 3.0 ['firsttest', 'secondtest', 'sixthtest', 'eightthtest']
+1: 2.0 ['thirdtest', 'fourthtest', 'fifthtest', 'seventhtest']
+--------------------------------------------------------------------------------
+firsttest: ([(0, 1, 29440000000L, 0)], [(True, False)])
+secondtest: ([(0, 1, 30180000000L, 0)], [(True, False)])
+thirdtest: ([(0, 1, 27920000000L, 1)], [(False, True)])
+fourthtest: ([(0, 1, 28180000000L, 1)], [(False, True)])
+fifthtest: ([(0, 1, 27320000000L, 1)], [(False, True)])
+sixthtest: ([(0, 1, 27420000000L, 0)], [(True, False)])
+seventhtest: ([(0, 1, 28850000000L, 1)], [(False, True)])
+eightthtest: ([(0, 1, 27700000000L, 0)], [(True, False)])
+--------------------------------------------------------------------------------
+0: 2.0 ['firsttest', 'secondtest', 'sixthtest', 'eightthtest']
+1: 2.0 ['thirdtest', 'fourthtest', 'fifthtest', 'seventhtest']
+--------------------------------------------------------------------------------
+firsttest: ([(0, 1, 29440000000L, 0)], [(True, False)])
+secondtest: ([(0, 1, 30180000000L, 0)], [(True, False)])
+thirdtest: ([(0, 1, 27920000000L, 1)], [(False, True)])
+fourthtest: ([(0, 1, 28200000000L, 1)], [(False, True)])
+fifthtest: ([(0, 1, 27330000000L, 1)], [(False, True)])
+sixthtest: ([(0, 1, 27420000000L, 0)], [(True, False)])
+seventhtest: ([(0, 1, 28850000000L, 1)], [(False, True)])
+eightthtest: ([(0, 1, 27700000000L, 0)], [(True, False)])
+--------------------------------------------------------------------------------
+0: 0.0 ['firsttest', 'secondtest', 'sixthtest', 'eightthtest']
+1: 3.0 ['thirdtest', 'fourthtest', 'fifthtest', 'seventhtest']
+--------------------------------------------------------------------------------
+^CTraceback (most recent call last):
+  File "monitor.py", line 72, in <module>
+    s.run()
+  File "/usr/lib/python2.7/sched.py", line 111, in run
+    delayfunc(time - now)
+KeyboardInterrupt
+]0;shwetasinghal@ubuntu: ~/cs6210Project1_test-master/test/cpu[01;32mshwetasinghal@ubuntu[00m:[01;34m~/cs6210Project1_test-master/test/cpu[00m$ exit
+exit
+
+Script done on 2018-10-01 20:50:47-0700
